@@ -1,0 +1,32 @@
+% learn2linux
+
+# List files and directories
+ls <directory>
+
+# List files and directories in a long format with extra details
+ls -l <directory>
+
+# List files including hidden files
+ls -a <directory>
+
+# Move to your home directory
+cd
+
+# Move to a different directory
+cd <directory>
+
+# View the manual for a command
+man <command>
+
+# Move or rename a file - like cutting and pasting
+mv <targetfile> <destination>
+
+# Copy a file to a new destination - like copying and pasting
+cp <targetfile> <destination>
+
+# Determine what a file's type is
+file <targetfile>
+
+# Clear the terminal screen
+clear
+
